@@ -1,0 +1,10 @@
+first
+
+cd\
+cd react  enter
+npm init react-app adikwu enter
+
+
+
+
+
